@@ -16,6 +16,7 @@ body{
 }
  
 div.imagem{
+    min-width: 300px;
     background-color: lightgrey;
     box-shadow: 6px 6px 13px 0px rgba(0, 0, 0, 0.185);
     background-size: cover;
@@ -96,7 +97,7 @@ a#pagina{
 }
 .btn-produtos{
     max-width: 25vw;
-    width: 25vw;
+    width: 30vw;
     height: 5vh;
     margin: auto;
     border: none;
